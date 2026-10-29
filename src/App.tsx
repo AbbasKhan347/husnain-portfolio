@@ -1970,11 +1970,11 @@ onKeyDown: (e: KeyboardEvent<HTMLElement>) => {
                     </button>
                   </div>
 
-                  <a className="ha-contact-item" href="tel:+923281154678">
+                  <a className="ha-contact-item" href="tel:+923146059203">
                     <Phone size={18} />
                     <div className="ha-contact-item-body">
                       <span className="ha-contact-lbl">PHONE / WHATSAPP</span>
-                      <span>+92 328 1154678</span>
+                      <span>+92 314 6059203</span>
                     </div>
                     <ArrowUpRight size={15} />
                   </a>
@@ -2179,7 +2179,7 @@ onKeyDown: (e: KeyboardEvent<HTMLElement>) => {
                 </div>
                 <div className="ha-res-contact">
                   <span>husnainabbas7299@gmail.com</span>
-                  <span>+92 328 1154678</span>
+                  <span>+92 314 6059203</span>
                   <span>linkedin.com/in/hasnain-abbas-24a237211</span>
                 </div>
               </div>
